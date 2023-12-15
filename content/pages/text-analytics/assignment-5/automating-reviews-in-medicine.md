@@ -25,7 +25,7 @@ The dataset consists of the titles (variable *title*) and abstracts (variable *
 
 ## Problem 1.1 - Loading the Data
 
-Load [clinical\_trial (CSV - 2.9MB)](./resolveuid/b16ce1e8d533ce403f362639be9f03a8) into a data frame called trials (remembering to add the argument stringsAsFactors=FALSE), and investigate the data frame with summary() and str().
+Load {{% resource_link "b16ce1e8-d533-ce40-3f36-2639be9f03a8" "clinical\_trial (CSV - 2.9MB)" %}} into a data frame called trials (remembering to add the argument stringsAsFactors=FALSE), and investigate the data frame with summary() and str().
 
 **Important Note:** Some students have been getting errors like "invalid multibyte string" when performing certain parts of this homework question. If this is happening to you, use the argument fileEncoding="latin1" when reading in the file with read.csv. This should cause those errors to go away.
 
@@ -109,7 +109,7 @@ corpusAbstract = tm\_map(corpusAbstract, PlainTextDocument)
 
 8) Convert dtmTitle and dtmAbstract to data frames (keep the names dtmTitle and dtmAbstract).
 
-If the code length(stopwords("english")) does not return 174 for you, then please run the line of code in [stopwords (TXT) file](./resolveuid/805445d847a62c67ea3ec07bc89df40c), which will store the standard stop words in a variable called sw. When removing stop words, use tm\_map(corpusTitle, removeWords, sw) and tm\_map(corpusAbstract, removeWords, sw) instead of tm\_map(corpusTitle, removeWords, stopwords("english")) and tm\_map(corpusAbstract, removeWords, stopwords("english")).
+If the code length(stopwords("english")) does not return 174 for you, then please run the line of code in {{% resource_link "805445d8-47a6-2c67-ea3e-c07bc89df40c" "stopwords (TXT) file" %}}, which will store the standard stop words in a variable called sw. When removing stop words, use tm\_map(corpusTitle, removeWords, sw) and tm\_map(corpusAbstract, removeWords, sw) instead of tm\_map(corpusTitle, removeWords, stopwords("english")) and tm\_map(corpusAbstract, removeWords, stopwords("english")).
 
 Explanation
 
@@ -449,7 +449,7 @@ The decision maker for this problem, a researcher performing a review of the med
 
 This process is shown in the figure below.
 
-![CART model related to automating info retrieval reviews in medical literature.](./resolveuid/20bb3f28bd041c71199daa89be8bb599)
+{{% resource_link "20bb3f28-bd04-1c71-199d-aa89be8bb599" "CART model related to automating info retrieval reviews in medical literature." %}}
 
 ## Problem 5.1 - Decision-Maker Tradeoffs
 
@@ -511,5 +511,5 @@ A false negative might negatively affect the results of the literature review an
 
 CheckShow Answer
 
-- [Back: Detecting Vandalism on Wikipedia](./resolveuid/2e4c9dd96d084e8fd1d8111a5affc5a4)
-- [Continue: Clustering](./resolveuid/6e34350394a0f94851f48f324b5f657f)
+- {{% resource_link "2e4c9dd9-6d08-4e8f-d1d8-111a5affc5a4" "Back: Detecting Vandalism on Wikipedia" %}}
+- {{% resource_link "6e343503-94a0-f948-51f4-8f324b5f657f" "Continue: Clustering" %}}
