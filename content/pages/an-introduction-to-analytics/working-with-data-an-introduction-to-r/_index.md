@@ -14,7 +14,7 @@ video_metadata:
 ---
 ## Introduction to R
 
-The slides for this sequence can be downloaded here: [Introduction to the R Programming Language (PDF)](./resolveuid/95e1dea61a0c566e8b1fe4ab6b1309ff).
+The slides for this sequence can be downloaded here: {{% resource_link "95e1dea6-1a0c-566e-8b1f-e4ab6b1309ff" "Introduction to the R Programming Language (PDF)" %}}.
 
 Before beginning this lecture, please download and install R for free from the following webpage: [The R Project](http://www.cran.r-project.org).
 
@@ -66,5 +66,5 @@ Sys.setlocale("LC\_ALL", "C")
 
 This will only change the locale for your current R session, so please make a note to run this command when you are working on any lectures or exercises that might depend on the English language (for example, the names for the days of the week).
 
-- [BackVideo 6: This Class](./resolveuid/3697235ab9798298ffc243742c5e644d)
-- [ContinueVideo 1: Why R?](./resolveuid/147b0a1bf22a4f9b0fd1d3a28f92f6da)
+- {{% resource_link "3697235a-b979-8298-ffc2-43742c5e644d" "BackVideo 6: This Class" %}}
+- {{% resource_link "147b0a1b-f22a-4f9b-0fd1-d3a28f92f6da" "ContinueVideo 1: Why R?" %}}

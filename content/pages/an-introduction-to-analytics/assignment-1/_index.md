@@ -40,7 +40,7 @@ Please download the file {{% resource_link "123f9aa4-885b-259d-b7f3-aef5153835de
 
 ## Problem 1.1 - Loading the Data
 
-Read the dataset [mvtWeek1 (CSV)](./resolveuid/123f9aa4885b259db7f3aef5153835de) into R, using the read.csv function, and call the data frame "mvt". Remember to navigate to the directory on your computer containing the file mvtWeek1.csv first. It may take a few minutes to read in the data, since it is pretty large. Then, use the str and summary functions to answer the following questions.
+Read the dataset {{% resource_link "123f9aa4-885b-259d-b7f3-aef5153835de" "mvtWeek1 (CSV)" %}} into R, using the read.csv function, and call the data frame "mvt". Remember to navigate to the directory on your computer containing the file mvtWeek1.csv first. It may take a few minutes to read in the data, since it is pretty large. Then, use the str and summary functions to answer the following questions.
 
 How many rows of data (observations) are in this dataset?
 
@@ -474,5 +474,7 @@ This can be read from table(Top5$LocationDescription, Top5$Weekday).
 
 CheckShow Answer
 
-- [Back: Video 6: Summary Tables](./resolveuid/34529fa513c12be0756196f923431249)
-- [Continue: Stock Dynamics](./resolveuid/89ce47d27edcdd9b8a8cbe641a59b520)
+{{% resource_link "28e5e867-d944-5ea9-aa7c-76de722fcf45" "7.3 The Analytical Policeman: Visualization for Law and Order" %}}
+
+- {{% resource_link "34529fa5-13c1-2be0-7561-96f923431249" "Back: Video 6: Summary Tables" %}}
+- {{% resource_link "89ce47d2-7edc-dd9b-8a8c-be641a59b520" "Continue: Stock Dynamics" %}}
