@@ -37,7 +37,7 @@ Additional variables include **sex** (0 for male, 1 for female), **yob** (year o
 
 ## Problem 1.1 - Exploration and Logistic Regression
 
-We will first get familiar with the data. Load the CSV file [gerber (CSV - 6.2MB)](./resolveuid/7ec8d2c9bb53ed9f946c98e5f6c9bff2) into R. What proportion of people in this dataset voted in this election?
+We will first get familiar with the data. Load the CSV file {{% resource_link "7ec8d2c9-bb53-ed9f-946c-98e5f6c9bff2" "gerber (CSV - 6.2MB)" %}} into R. What proportion of people in this dataset voted in this election?
 
 Exercise 1
 
@@ -445,5 +445,5 @@ We should not use all possible interaction terms in a logistic regression model 
 
 CheckShow Answer
 
-- [Back: Assignment 4](./resolveuid/11ad34c810832b186afacd57f2616109)
-- [Continue: State Data Revisted](./resolveuid/1ec4de196088678ec051d69160bc733a)
+- {{% resource_link "11ad34c8-1083-2b18-6afa-cd57f2616109" "Back: Assignment 4" %}}
+- {{% resource_link "1ec4de19-6088-678e-c051-d69160bc733a" "Continue: State Data Revisted" %}}

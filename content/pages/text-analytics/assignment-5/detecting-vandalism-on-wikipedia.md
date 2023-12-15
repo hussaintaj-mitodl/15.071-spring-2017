@@ -41,7 +41,7 @@ Notice the repeated use of *unique*. The data we have available is not the trad
 
 ## Problem 1.1 - Bags of Words
 
-Load the data [wiki (CSV)](./resolveuid/689509df0b6105e6af7ea0b866825c45) with the option stringsAsFactors=FALSE, calling the data frame "wiki". Convert the "Vandal" column to a factor using the command wiki$Vandal = as.factor(wiki$Vandal).
+Load the data {{% resource_link "689509df-0b61-05e6-af7e-a0b866825c45" "wiki (CSV)" %}} with the option stringsAsFactors=FALSE, calling the data frame "wiki". Convert the "Vandal" column to a factor using the command wiki$Vandal = as.factor(wiki$Vandal).
 
 How many cases of vandalism were detected in the history of this page?
 
@@ -81,7 +81,7 @@ We will now use the bag of words approach to build a model. We have two columns 
 
 4) Build the DocumentTermMatrix, and call it dtmAdded.
 
-If the code length(stopwords("english")) does not return 174 for you, then please run the line of code in [stopwords (TXT) file](./resolveuid/8bb9e560bb61e7199ca1eccfbe6a9832), which will store the standard stop words in a variable called sw. When removing stop words, use tm\_map(corpusAdded, removeWords, sw) instead of tm\_map(corpusAdded, removeWords, stopwords("english")).
+If the code length(stopwords("english")) does not return 174 for you, then please run the line of code in {{% resource_link "8bb9e560-bb61-e719-9ca1-eccfbe6a9832" "stopwords (TXT) file" %}}, which will store the standard stop words in a variable called sw. When removing stop words, use tm\_map(corpusAdded, removeWords, sw) instead of tm\_map(corpusAdded, removeWords, stopwords("english")).
 
 How many terms appear in dtmAdded?
 
@@ -475,5 +475,5 @@ By adding new independent variables, we were able to significantly improve our a
 
 CheckShow Answer
 
-- [Back: Assignment 5](./resolveuid/81eae0fd28f287336b792210ba33dfbb)
-- [Continue: Automating Reviews in Medicine](./resolveuid/f9baad347f956b6f860866551433d510)
+- {{% resource_link "81eae0fd-28f2-8733-6b79-2210ba33dfbb" "Back: Assignment 5" %}}
+- {{% resource_link "f9baad34-7f95-6b6f-8608-66551433d510" "Continue: Automating Reviews in Medicine" %}}

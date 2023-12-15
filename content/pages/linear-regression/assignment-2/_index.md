@@ -18,7 +18,7 @@ There have been many studies documenting that the average global temperature has
 
 In this problem, we will attempt to study the relationship between average global temperature and several other factors.
 
-The file [climate\_change (CSV)](./resolveuid/3b53e75d1ddb97bd98f40ae5bbee2475) contains climate data from May 1983 to December 2008. The available variables include:
+The file {{% resource_link "3b53e75d-1ddb-97bd-98f4-0ae5bbee2475" "climate\_change (CSV)" %}} contains climate data from May 1983 to December 2008. The available variables include:
 
  
 
@@ -199,5 +199,5 @@ We have observed that, for this problem, when we remove many variables the sign 
 
 CheckShow Answer
 
-- [Back: Video 4: Making Predictions](./resolveuid/4a72056c6bbe0c01489fb7068637be07)
-- [Continue: Reading Test Scores](./resolveuid/f590aa024205ae291d855ec56a16b4a4)
+- {{% resource_link "4a72056c-6bbe-0c01-489f-b7068637be07" "Back: Video 4: Making Predictions" %}}
+- {{% resource_link "f590aa02-4205-ae29-1d85-5ec56a16b4a4" "Continue: Reading Test Scores" %}}

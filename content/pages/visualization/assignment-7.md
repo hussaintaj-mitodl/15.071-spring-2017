@@ -16,7 +16,7 @@ video_metadata:
 
 In the crime lecture, we saw how we can use heatmaps to give a 2-dimensional representation of 3-dimensional data: we made heatmaps of crime counts by time of the day and day of the week. In this problem, we'll learn how to use histograms to show counts by one variable, and then how to visualize 3 dimensions by creating multiple histograms.
 
-We'll use the parole data [parole (CSV)](./resolveuid/ee9b52a20d6ebf5944fb3da9171fa3e0) from Unit 3. Before, we used this data to predict parole violators. Now, let's try to get a little more insight into this dataset using histograms. As a reminder, the variables in this dataset are:
+We'll use the parole data {{% resource_link "ee9b52a2-0d6e-bf59-44fb-3da9171fa3e0" "parole (CSV)" %}} from Unit 3. Before, we used this data to predict parole violators. Now, let's try to get a little more insight into this dataset using histograms. As a reminder, the variables in this dataset are:
 
  
 
@@ -388,5 +388,5 @@ While overlaying the plots is allowed and lets us observe some attributes of the
 
 CheckShow Answer
 
-- [Back: Video 7: Using Line Charts Instead](./resolveuid/5d57bafe1422b8d9a742d6339058ab65)
-- [Continue: Linear Optimization](./resolveuid/daafaa58867c9765f1c4c60a9c0ed426)
+- {{% resource_link "5d57bafe-1422-b8d9-a742-d6339058ab65" "Back: Video 7: Using Line Charts Instead" %}}
+- {{% resource_link "daafaa58-867c-9765-f1c4-c60a9c0ed426" "Continue: Linear Optimization" %}}

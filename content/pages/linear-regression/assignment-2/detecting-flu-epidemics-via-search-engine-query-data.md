@@ -35,7 +35,7 @@ Google Search Queries - [Google Trends](http://www.google.com/trends/) allows pu
 
  
 
-The csv file [FluTrain (CSV)](./resolveuid/0148593d1ffa6dfdc89b468c796b52f3) aggregates this data from January 1, 2004 until December 31, 2011 as follows:
+The csv file {{% resource_link "0148593d-1ffa-6dfd-c89b-468c796b52f3" "FluTrain (CSV)" %}} aggregates this data from January 1, 2004 until December 31, 2011 as follows:
 
 "Week" - The range of dates represented by this observation, in year/month/day format.
 
@@ -225,7 +225,7 @@ CheckShow Answer
 
 ## Problem 3.1 - Performance on the Test Set
 
-The csv file [FluTest.csv](./resolveuid/7dab7b0643fffe3c60340a93323d2a0a) provides the 2012 weekly data of the ILI-related search queries and the observed weekly percentage of ILI-related physician visits. Load this data into a data frame called FluTest.
+The csv file {{% resource_link "7dab7b06-43ff-fe3c-6034-0a93323d2a0a" "FluTest.csv" %}} provides the 2012 weekly data of the ILI-related search queries and the observed weekly percentage of ILI-related physician visits. Load this data into a data frame called FluTest.
 
 Normally, we would obtain test-set predictions from the model FluTrend1 using the code
 
@@ -559,5 +559,5 @@ In this problem, we used a simple time series model with a single lag term. ARIM
 
 CheckShow Answer
 
-- [Back: Reading Test Scores](./resolveuid/f590aa024205ae291d855ec56a16b4a4)
-- [Continue: State Data](./resolveuid/609cf3523750f69ecb54c706f04a68c5)
+- {{% resource_link "f590aa02-4205-ae29-1d85-5ec56a16b4a4" "Back: Reading Test Scores" %}}
+- {{% resource_link "609cf352-3750-f69e-cb54-c706f04a68c5" "Continue: State Data" %}}
