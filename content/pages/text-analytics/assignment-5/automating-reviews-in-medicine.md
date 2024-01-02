@@ -449,7 +449,7 @@ The decision maker for this problem, a researcher performing a review of the med
 
 This process is shown in the figure below.
 
-{{% resource_link "20bb3f28-bd04-1c71-199d-aa89be8bb599" "CART model related to automating info retrieval reviews in medical literature." %}}
+{{< resource uuid="20bb3f28-bd04-1c71-199d-aa89be8bb599" >}}
 
 ## Problem 5.1 - Decision-Maker Tradeoffs
 
