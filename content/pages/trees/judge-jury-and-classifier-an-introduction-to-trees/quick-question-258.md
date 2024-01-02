@@ -16,7 +16,7 @@ video_metadata:
 
 Suppose that you have the following CART tree:
 
-{{% resource_link "b2eea6fb-a57d-b424-a484-4f679aee4bc9" "Example of a cart tree." %}}
+{{< resource uuid="b2eea6fb-a57d-b424-a484-4f679aee4bc9" >}}
 
 How many splits are in this tree?
 

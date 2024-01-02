@@ -22,7 +22,7 @@ The following figure shows three data points and the best fit line
 
 The x-coordinate, or "x", is our independent variable and the y-coordinate, or "y", is our dependent variable.
 
-{{% resource_link "0c812c31-8c89-3954-3d90-1b0f954da36a" "Figure showing three data points and the best fit line." %}}
+{{< resource uuid="0c812c31-8c89-3954-3d90-1b0f954da36a" >}}
 
 Please answer the following questions using this figure.
 

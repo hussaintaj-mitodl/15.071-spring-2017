@@ -474,7 +474,5 @@ This can be read from table(Top5$LocationDescription, Top5$Weekday).
 
 CheckShow Answer
 
-{{% resource_link "28e5e867-d944-5ea9-aa7c-76de722fcf45" "7.3 The Analytical Policeman: Visualization for Law and Order" %}}
-
 - {{% resource_link "34529fa5-13c1-2be0-7561-96f923431249" "Back: Video 6: Summary Tables" %}}
 - {{% resource_link "89ce47d2-7edc-dd9b-8a8c-be641a59b520" "Continue: Stock Dynamics" %}}

@@ -21,11 +21,11 @@ Each representative typically is affiliated with one of the two major political 
 
 Gerrymandering refers to the process of redrawing district boundaries so as to favor a particular political party. To illustrate this, suppose we have the hypothetical state below, with three districts. Each district is further subdivided along a grid into smaller subregions, where each subregion votes unanimously for either party. Suppose that in this hypothetical example, there is only one voter in each subregion.
 
-{{% resource_link "2cc4ad88-5d21-56d8-9c14-e3848a5fb9dc" "Example of a gerrymandering grid in which Blue wins." %}}
+{{< resource uuid="2cc4ad88-5d21-56d8-9c14-e3848a5fb9dc" >}}
 
 Based on the current district boundaries, the blue party has a majority in each district, so each district elects a blue representative. However, suppose we decide to redraw the boundaries in the following way:
 
-{{% resource_link "96516b5e-431f-1672-ee8c-a633d2d2e93e" "Example of the same gerrymandering grid in which red wins." %}}
+{{< resource uuid="96516b5e-431f-1672-ee8c-a633d2d2e93e" >}}
 
 Now the blue party does not win in every district; in fact, the red party wins two of the three districts. 
 
@@ -37,11 +37,11 @@ In this problem, we will be exploring how to systematically manipulate these kin
 
 The state of New Mexico, located in the south of the US, currently has three districts:
 
-{{% resource_link "a716bfa7-76b2-be85-f666-b0a4e6877f69" "Colored map showing New Mexico's congressional districts." %}}
+{{< resource uuid="a716bfa7-76b2-be85-f666-b0a4e6877f69" >}}
 
 The state of New Mexico is also divided into counties:
 
-{{% resource_link "47316383-de17-3f45-7bcc-8726c7c9aef7" "Map showing the outlines of New Mexico's counties." %}}
+{{< resource uuid="47316383-de17-3f45-7bcc-8726c7c9aef7" >}}
 
 Counties are administrative units that are typically smaller than districts. In many states counties are split across districts, but in this problem we will assume that the new districts we will design will be built from the existing counties. 
 
