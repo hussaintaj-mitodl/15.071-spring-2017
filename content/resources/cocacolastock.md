@@ -1,9 +1,15 @@
 ---
+body: ''
 content_type: resource
 description: 'Resource:'
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/4e0afebb6ca9c80d80e630e8e9872585_CocaColaStock.csv
 file_size: 8661
 file_type: text/comma-separated-values
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -14,6 +20,10 @@ parent_uid: 89ce47d2-7edc-dd9b-8a8c-be641a59b520
 resourcetype: Other
 title: CocaColaStock.csv
 uid: 4e0afebb-6ca9-c80d-80e6-30e8e9872585
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

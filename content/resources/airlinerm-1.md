@@ -1,9 +1,15 @@
 ---
+body: ''
 content_type: resource
 description: 'Resource:'
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/84a47fbaa58569c885233baeebe1b43a_AirlineRM.xlsx
 file_size: 40822
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
@@ -13,6 +19,10 @@ parent_uid: 86a033cc-e142-d448-a8bb-9112a73f89db
 resourcetype: Other
 title: AirlineRM.xlsx
 uid: 84a47fba-a585-69c8-8523-3baeebe1b43a
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

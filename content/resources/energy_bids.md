@@ -1,9 +1,15 @@
 ---
+body: ''
 content_type: resource
 description: 'Resource:'
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/6d2b07bf20ccaf83c396d465e5b7574d_energy_bids.csv
 file_size: 2068518
 file_type: text/comma-separated-values
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
@@ -13,6 +19,10 @@ parent_uid: d2b6e4bc-cf8f-0017-b1fc-3de36e683c9a
 resourcetype: Other
 title: energy_bids.csv
 uid: 6d2b07bf-20cc-af83-c396-d465e5b7574d
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

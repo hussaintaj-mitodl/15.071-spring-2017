@@ -1,9 +1,15 @@
 ---
+body: ''
 content_type: resource
 description: 'Resource:'
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/b16ce1e8d533ce403f362639be9f03a8_clinical_trial.csv
 file_size: 3026295
 file_type: text/comma-separated-values
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -14,6 +20,10 @@ parent_uid: f9baad34-7f95-6b6f-8608-66551433d510
 resourcetype: Other
 title: clinical_trial.csv
 uid: b16ce1e8-d533-ce40-3f36-2639be9f03a8
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

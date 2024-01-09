@@ -1,6 +1,8 @@
 ---
+body: ''
 content_type: resource
 description: 'Image: '
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/47316383de173f457bcc8726c7c9aef7_New_Mexico_County_Map.png
 file_size: 36649
 file_type: image/png
@@ -18,6 +20,10 @@ parent_uid: 1ab3f4de-f050-7a6b-6327-b8e7dfa4fb69
 resourcetype: Image
 title: New_Mexico_County_Map.png
 uid: 47316383-de17-3f45-7bcc-8726c7c9aef7
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

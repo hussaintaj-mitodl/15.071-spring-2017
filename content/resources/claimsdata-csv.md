@@ -1,9 +1,15 @@
 ---
+body: ''
 content_type: resource
 description: 'Resource:'
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/da45d600699821bf0d2024d5628389ab_ClaimsData.csv.zip
 file_size: 2285240
 file_type: application/zip
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
@@ -13,6 +19,10 @@ parent_uid: b189783b-0ca7-287f-248b-0339ea5afbeb
 resourcetype: Other
 title: ClaimsData.csv.zip
 uid: da45d600-6998-21bf-0d20-24d5628389ab
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

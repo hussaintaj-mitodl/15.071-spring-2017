@@ -1,9 +1,15 @@
 ---
+body: ''
 content_type: resource
 description: 'Resource:'
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/f696bd7b2341029c903ea725a8482b15_mvt.csv
 file_size: 7317543
 file_type: text/comma-separated-values
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
@@ -13,6 +19,10 @@ parent_uid: 1bd0d7e9-c5ce-0101-823b-0faa796ad873
 resourcetype: Other
 title: mvt.csv
 uid: f696bd7b-2341-029c-903e-a725a8482b15
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

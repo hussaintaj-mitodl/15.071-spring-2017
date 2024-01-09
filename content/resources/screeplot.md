@@ -1,6 +1,8 @@
 ---
+body: ''
 content_type: resource
 description: 'Image: '
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/4154c121b2d3518a68c3557753b268e2_ScreePlot.jpg
 file_size: 44391
 file_type: image/jpeg
@@ -17,6 +19,10 @@ parent_uid: 463ba1ca-1b89-e001-7fa8-7ebc26673bd4
 resourcetype: Image
 title: ScreePlot.jpg
 uid: 4154c121-b2d3-518a-68c3-557753b268e2
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

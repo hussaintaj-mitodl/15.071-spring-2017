@@ -1,6 +1,8 @@
 ---
+body: ''
 content_type: resource
 description: 'Image: '
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/2d20a1e450f8bd62006bf8e20477eb64_QQ4_PenaltyError.png
 file_size: 51060
 file_type: image/png
@@ -17,6 +19,10 @@ parent_uid: c679795e-ed4f-1bd8-079e-7f008721cf38
 resourcetype: Image
 title: QQ4_PenaltyError.png
 uid: 2d20a1e4-50f8-bd62-006b-f8e20477eb64
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

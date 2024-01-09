@@ -1,9 +1,15 @@
 ---
+body: ''
 content_type: resource
 description: 'Resource:'
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/7dab7b0643fffe3c60340a93323d2a0a_FluTest.csv
 file_size: 2501
 file_type: text/comma-separated-values
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -14,6 +20,10 @@ parent_uid: d64b9247-3ae1-fb23-50f1-b27dc8fbde0b
 resourcetype: Other
 title: FluTest.csv
 uid: 7dab7b06-43ff-fe3c-6034-0a93323d2a0a
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

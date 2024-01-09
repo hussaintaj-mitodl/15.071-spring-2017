@@ -1,9 +1,15 @@
 ---
+body: ''
 content_type: resource
 description: 'Resource:'
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/6cd223a14aec5eb0c21e45ff237283bb_EvenStarFarmRevisited.ods
 file_size: 13219
 file_type: application/vnd.oasis.opendocument.spreadsheet
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -14,6 +20,10 @@ parent_uid: 2dbce7a6-bb37-17df-55b4-be0179616ad6
 resourcetype: Other
 title: EvenStarFarmRevisited.ods
 uid: 6cd223a1-4aec-5eb0-c21e-45ff237283bb
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

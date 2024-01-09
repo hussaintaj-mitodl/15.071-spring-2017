@@ -1,9 +1,15 @@
 ---
+body: ''
 content_type: resource
 description: 'Resource:'
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/aaebd921b1c08e81759240fd6780400d_pisa2009test.csv
 file_size: 105979
 file_type: text/comma-separated-values
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -14,6 +20,10 @@ parent_uid: f590aa02-4205-ae29-1d85-5ec56a16b4a4
 resourcetype: Other
 title: pisa2009test.csv
 uid: aaebd921-b1c0-8e81-7592-40fd6780400d
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---
