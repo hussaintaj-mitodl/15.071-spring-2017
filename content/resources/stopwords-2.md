@@ -1,9 +1,15 @@
 ---
+body: ''
 content_type: resource
 description: 'Resource:'
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/bcb87bd6e9ec8d828a362298d36363f5_stopwords.txt
 file_size: 1483
 file_type: text/plain
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -14,5 +20,14 @@ parent_uid: 81eae0fd-28f2-8733-6b79-2210ba33dfbb
 resourcetype: Other
 title: stopwords.txt
 uid: bcb87bd6-e9ec-8d82-8a36-2298d36363f5
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
 ---
 Resource:

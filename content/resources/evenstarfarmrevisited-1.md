@@ -1,9 +1,15 @@
 ---
+body: ''
 content_type: resource
 description: 'Resource:'
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/040348f2170d8719fb1874e9a3e484ce_EvenStarFarmRevisited.xlsx
 file_size: 41878
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -14,6 +20,10 @@ parent_uid: 2dbce7a6-bb37-17df-55b4-be0179616ad6
 resourcetype: Other
 title: EvenStarFarmRevisited.xlsx
 uid: 040348f2-170d-8719-fb18-74e9a3e484ce
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

@@ -1,6 +1,8 @@
 ---
+body: ''
 content_type: resource
 description: 'Image: '
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/2e9e352fb3c5db802e8d74e83b053498_USmap_Week7.jpg
 file_size: 125390
 file_type: image/jpeg
@@ -18,6 +20,10 @@ parent_uid: afc1a35a-1de0-dfbe-71d4-6f725359bcfc
 resourcetype: Image
 title: USmap_Week7.jpg
 uid: 2e9e352f-b3c5-db80-2e8d-74e83b053498
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

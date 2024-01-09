@@ -1,6 +1,8 @@
 ---
+body: ''
 content_type: resource
 description: 'Image: '
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/be57802c07c0cabbef69146663aaec19_Week7_Crime_QQ4_2.png
 file_size: 38570
 file_type: image/png
@@ -18,6 +20,10 @@ parent_uid: 6bc1ec1e-1262-c5a1-28e1-f822404bb0ba
 resourcetype: Image
 title: Week7_Crime_QQ4_2.png
 uid: be57802c-07c0-cabb-ef69-146663aaec19
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

@@ -1,9 +1,15 @@
 ---
+body: ''
 content_type: resource
 description: 'Resource:'
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/f9d0e9bcadbcf7fab487085230efbceb_ORscheduling_Complete.ods
 file_size: 12981
 file_type: application/vnd.oasis.opendocument.spreadsheet
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
@@ -13,6 +19,10 @@ parent_uid: 162e5921-904a-9507-80e7-596c005168c3
 resourcetype: Other
 title: ORscheduling_Complete.ods
 uid: f9d0e9bc-adbc-f7fa-b487-085230efbceb
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

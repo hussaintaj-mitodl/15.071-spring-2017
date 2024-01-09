@@ -1,15 +1,25 @@
 ---
+body: ''
 content_type: resource
 description: ''
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/33524d584aaf58a4bb7d72dff124574d_0RaZe62Rg2A.vtt
 file_size: 3539
 file_type: application/x-subrip
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 33524d58-4aaf-58a4-bb7d-72dff124574d
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

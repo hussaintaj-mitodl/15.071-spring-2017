@@ -1,6 +1,8 @@
 ---
+body: ''
 content_type: resource
 description: 'Image: '
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/a716bfa776b2be85f666b0a4e6877f69_New_Mexico_Congressional_Districts.png
 file_size: 37604
 file_type: image/png
@@ -18,6 +20,10 @@ parent_uid: 1ab3f4de-f050-7a6b-6327-b8e7dfa4fb69
 resourcetype: Image
 title: New_Mexico_Congressional_Districts.png
 uid: a716bfa7-76b2-be85-f666-b0a4e6877f69
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

@@ -1,6 +1,8 @@
 ---
+body: ''
 content_type: resource
 description: 'Image: '
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/5ad4d62205c0fb3bc07e63ce035d5c43_Wine_QQ1_Plot1.png
 file_size: 20730
 file_type: image/png
@@ -17,6 +19,10 @@ parent_uid: ef446456-afa1-894f-834f-a9ae8908c9a2
 resourcetype: Image
 title: Wine_QQ1_Plot1.png
 uid: 5ad4d622-05c0-fb3b-c07e-63ce035d5c43
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

@@ -1,6 +1,8 @@
 ---
+body: ''
 content_type: resource
 description: 'Image: '
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/20bb3f28bd041c71199daa89be8bb599_InfoRetrievalFigure2.png
 file_size: 43680
 file_type: image/png
@@ -18,6 +20,10 @@ parent_uid: f9baad34-7f95-6b6f-8608-66551433d510
 resourcetype: Image
 title: InfoRetrievalFigure2.png
 uid: 20bb3f28-bd04-1c71-199d-aa89be8bb599
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

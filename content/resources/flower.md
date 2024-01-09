@@ -1,9 +1,15 @@
 ---
+body: ''
 content_type: resource
 description: 'Resource:'
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/2d4a0c3fb38591cbaccdce7321b66dba_flower.csv
 file_size: 29266
 file_type: text/comma-separated-values
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
@@ -13,6 +19,10 @@ parent_uid: 63f40bde-98fd-3fdc-8c2d-df21ec19f21f
 resourcetype: Other
 title: flower.csv
 uid: 2d4a0c3f-b385-91cb-accd-ce7321b66dba
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---

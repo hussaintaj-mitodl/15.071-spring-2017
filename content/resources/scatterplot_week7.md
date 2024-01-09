@@ -1,6 +1,8 @@
 ---
+body: ''
 content_type: resource
 description: 'Image: '
+draft: ''
 file: /courses/15-071-the-analytics-edge-spring-2017/2dfcddaf915538a51d3028359bbd2fcb_Scatterplot_Week7.jpg
 file_size: 51136
 file_type: image/jpeg
@@ -18,6 +20,10 @@ parent_uid: afc1a35a-1de0-dfbe-71d4-6f725359bcfc
 resourcetype: Image
 title: Scatterplot_Week7.jpg
 uid: 2dfcddaf-9155-38a5-1d30-28359bbd2fcb
+video_files:
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
 video_metadata:
   youtube_id: null
 ---
